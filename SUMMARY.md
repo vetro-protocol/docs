@@ -36,6 +36,7 @@
 
 * [Curve Pools](liquidity/curve-pools.md)
 * [Morpho](liquidity/morpho.md)
+* [SushiSwap](liquidity/sushi.md)
 
 ## Governance
 
