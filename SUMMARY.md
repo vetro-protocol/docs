@@ -22,6 +22,16 @@
 * [AMO](mechanics/amo.md)
 * [CDP Borrowing](mechanics/cdp-borrowing.md)
 
+## Using the App
+
+* [Overview](app/overview.md)
+* [Swap](app/swap.md)
+* [Earn](app/earn.md)
+* [Borrow](app/borrow.md)
+* [Bridge](app/bridge.md)
+* [Analytics](app/analytics.md)
+* [Supported Assets](app/supported-assets.md)
+
 ## Governance
 
 * [VETRO Token](governance/vetro-token.md)

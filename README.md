@@ -14,3 +14,4 @@ The protocol separates stability from yield by design — VUSD functions as a se
 - [App](https://beta.vetro.org)
 - [GitHub](https://github.com/vetro-protocol/vetro-contracts)
 - [VUSD on Etherscan](https://etherscan.io/address/0xCa83DDE9c22254f58e771bE5E157773212AcBAc3)
+- [vetBTC on Etherscan](https://etherscan.io/address/0xf196C68233464A16CFDa319a47c21f4cECa62001)
