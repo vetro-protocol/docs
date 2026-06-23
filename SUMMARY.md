@@ -32,6 +32,11 @@
 * [Analytics](app/analytics.md)
 * [Supported Assets](app/supported-assets.md)
 
+## Liquidity & Integrations
+
+* [Curve Pools](liquidity/curve-pools.md)
+* [Morpho](liquidity/morpho.md)
+
 ## Governance
 
 * [VETRO Token](governance/vetro-token.md)
