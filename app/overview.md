@@ -10,9 +10,9 @@ The Vetro app at [beta.vetro.org](https://beta.vetro.org) is the main interface 
 
 | Tab | What you do | Protocol action behind it |
 |-----|-------------|--------------------------|
-| **Swap** | Deposit supported assets, receive VUSD or vetBTC | Gateway mint / swap-in |
+| **Swap** | Swap supported assets, receive VUSD or vetBTC | Gateway mint / swap-in |
 | **Earn** | Stake VUSD into sVUSD for variable yield | ERC-4626 StakingVault deposit |
-| **Borrow** | Deposit collateral, borrow VUSD | AMO CDP via Morpho Blue |
+| **Borrow** | Add collateral, borrow VUSD | AMO CDP via Morpho Blue |
 | **Bridge** | Move assets across connected chains | LayerZero OFT transfer |
 | **Analytics** | Monitor peg, reserves, and positions | Read-only protocol state |
 

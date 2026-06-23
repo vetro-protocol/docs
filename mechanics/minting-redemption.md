@@ -7,7 +7,7 @@ description: How VUSD is minted, held, and redeemed.
 ## Minting Flow
 
 ```
-Step 1: Deposit any approved stablecoin (USDC, USDT) → Gateway
+Step 1: Swap any approved stablecoin (USDC, USDT) → Gateway
 Step 2: Gateway mints VUSD at 1:1 minus a nominal minting fee
 Step 3: Treasury allocates collateral → Redemption Buffer (20%) + Yield Strategies (80%)
 ```

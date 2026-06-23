@@ -4,7 +4,7 @@ description: Over-collateralized borrowing of VUSD against crypto collateral.
 
 # CDP Borrowing
 
-Beyond the deposit-and-mint pathway for VUSD, the protocol supports over-collateralized borrowing. Users deposit crypto assets as collateral and borrow VUSD against them, creating dollar liquidity without selling their underlying position.
+Beyond the swap-and-mint pathway for VUSD, the protocol supports over-collateralized borrowing. Users deposit crypto assets as collateral and borrow VUSD against them, creating dollar liquidity without selling their underlying position.
 
 ## How It Works
 
@@ -13,7 +13,7 @@ The VETRO Treasury acts as the direct lender. The AMO mints VUSD within its auth
 ## Borrowing Flow
 
 ```
-1. Deposit supported collateral (hemiBTC, WETH) into the designated Morpho Blue market
+1. Add supported collateral (hemiBTC, WETH) into the designated Morpho Blue market
 2. Borrow VUSD up to the governance-defined LTV ratio
 3. Stability fee accrues on outstanding debt balance
 4. Manage position: add collateral, repay debt, or close at any time
@@ -52,5 +52,5 @@ Collateralized borrowing markets are deployed through Morpho Blue for several re
 ## Use Cases
 
 - **Real-World Payments**: Miners and long-term holders access dollar liquidity for operational expenses without selling crypto or triggering taxable events
-- **Leverage**: Deposit collateral, borrow VUSD, purchase more crypto — create leveraged long exposure
+- **Leverage**: Add collateral, borrow VUSD, purchase more crypto — create leveraged long exposure
 - **Yield Arbitrage**: Borrow VUSD at the stability fee rate and deploy into yield strategies with a higher return, capturing the spread
