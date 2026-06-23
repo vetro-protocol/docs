@@ -8,7 +8,7 @@ The Swap tab lets you deposit supported input assets and receive Vetro protocol 
 
 ## Supported Swap Inputs (Live)
 
-| You swap | You receive | Status |
+| You deposit | You receive | Status |
 |-------------|-------------|--------|
 | USDC | VUSD | ✅ Live |
 | USDT | VUSD | ✅ Live |
@@ -16,4 +16,28 @@ The Swap tab lets you deposit supported input assets and receive Vetro protocol 
 | hemiBTC | vetBTC | ✅ Live |
 | cbBTC | vetBTC | ✅ Live |
 | WBTC | vetBTC | ✅ Live |
- 
+
+> vetETH is **not yet live**. WETH cannot currently be swapped for vetETH.
+
+## How to Swap
+
+1. Open [beta.vetro.org](https://beta.vetro.org) and connect your wallet
+2. Click the **Swap** tab in the top navigation
+3. Select the asset you want to deposit (e.g. USDC)
+4. Enter the amount you want to convert
+5. Confirm the estimated output shown (e.g. VUSD)
+6. Click **Swap** and approve the transaction in your wallet
+7. Your VUSD or vetBTC will appear in your wallet once the transaction confirms
+
+## Redeeming (Swap Out)
+
+To convert VUSD back to USDC, USDT, or frxUSD:
+
+1. In the Swap tab, toggle to **Redeem** mode
+2. Enter the amount of VUSD to redeem
+3. Select your preferred output stablecoin
+4. Click **Start** — your assets go into the **Redeem Queue**
+5. A ~6-block security cooldown begins (~60–90 seconds)
+6. Once the cooldown ends, return and click **Complete your redemption** to receive your stablecoin
+
+> Whitelisted market makers receive instant single-transaction redemptions with no cooldown.
