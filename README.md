@@ -1,8 +1,12 @@
-# Vetro Protocol Documentation
+---
+description: Welcome to the official Vetro Protocol documentation.
+---
 
-Welcome to the official Vetro Protocol documentation.
+# Welcome
 
-Vetro is a non-custodial, protocol-based asset infrastructure platform designed to unify the issuance, settlement, and productivity of protocol-generated digital assets across 100+ blockchain networks.
+Vetro is a non-custodial, protocol-based asset infrastructure platform designed to unify the issuance, settlement, and productivity of protocol-generated digital dollar assets across 100+ blockchain networks.
+
+The protocol separates stability from yield by design — VUSD functions as a settlement-grade dollar asset, while sVUSD and VUSDx provide opt-in yield layers for users who want productivity on their holdings.
 
 ## Quick Links
 
