@@ -52,3 +52,7 @@
 
 * [Audits](security/audits.md)
 * [Guardian Controls](security/guardian-controls.md)
+
+## Community & Resources
+
+* [Resources](community/resources.md)
