@@ -46,3 +46,8 @@ VUSD holders benefit from four layers of protection:
 | Network | Address |
 |---------|---------|
 | Ethereum Mainnet | [0xCa83DDE9c22254f58e771bE5E157773212AcBAc3](https://etherscan.io/address/0xCa83DDE9c22254f58e771bE5E157773212AcBAc3) |
+
+## Want to Integrate with VUSD?
+
+If you represent a project and want to discuss integrating VUSD or adding a new minting input asset:
+[Speak to the team →](https://vetro.org/speak-to-the-team)

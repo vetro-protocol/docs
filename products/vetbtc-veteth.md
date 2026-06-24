@@ -33,3 +33,8 @@ Each new asset vertical requires a veVETRO governance vote before activation. Th
 - **Redundant Oracle Mapping**: Each vertical is bound to a decentralized price feed with configurable staleness and deviation thresholds
 - **Isolated Treasury Vaults**: Collateral for each vet vertical is held in segregated sub-vaults with independent swap-in/swap-out toggles
 - **Governance Activation**: Formal veVETRO vote required before any new vertical goes live
+
+## Want to Integrate with vetBTC?
+
+If you represent a project and want to discuss adding a new BTC-backed asset:
+[Speak to the team →](https://vetro.org/speak-to-the-team)

@@ -51,3 +51,8 @@ description: Which assets are live now vs. planned for future releases.
 | cbBTC, tBTC, wSOL, wBNB | CDP collateral | Planned Phase 2 CDP expansion |
 
 > Always refer to this page or the live app at [beta.vetro.org](https://beta.vetro.org) for current asset availability. The whitepaper describes the full roadmap — not only what is currently deployed.
+
+## Want to Add Your Asset?
+
+If you represent a project and want to discuss integration with Vetro Protocol:
+[Speak to the team →](https://vetro.org/speak-to-the-team)
