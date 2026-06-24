@@ -19,4 +19,5 @@ description: Official Vetro Protocol links, social accounts, and research papers
 | X (Twitter) | [@vetro_org](https://x.com/vetro_org) |
 | LinkedIn | [linkedin.com/company/vetro-org](https://linkedin.com/company/vetro-org/) |
 | Website | [vetro.org](https://vetro.org) |
+| Speak to the team | [vetro.org/speak-to-the-team](https://vetro.org/speak-to-the-team) |
 | App | [beta.vetro.org](https://beta.vetro.org) |

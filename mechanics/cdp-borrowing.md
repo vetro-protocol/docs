@@ -22,7 +22,7 @@ The VETRO Treasury acts as the direct lender. The AMO mints VUSD within its auth
 
 If the collateral value drops below the liquidation threshold, the position is permissionlessly liquidatable. Liquidators seize the necessary collateral, repay the borrowed VUSD (which is burned), and keep the liquidation bonus.
 
-## Protocol Architecture — Morpho Blue
+## Morpho Blue Integration
 
 Collateralized borrowing markets are deployed through Morpho Blue for several reasons:
 

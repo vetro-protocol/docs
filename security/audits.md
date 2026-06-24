@@ -17,7 +17,7 @@ The VETRO security program follows a staged approach:
 
 ## Published Audits
 
-### Quantstamp — February 2026
+### Quantstamp Audit (February 2026)
 
 **Scope**: VUSD, Gateway, Treasury, sVUSD (StakingVault), YieldDistributor
 

@@ -52,3 +52,8 @@ If your health factor falls below 1.0, any address can liquidate your position:
 - The repaid VUSD is burned
 
 To avoid liquidation: add more collateral or repay part of your debt before the health factor reaches 1.0.
+
+## Want to Add Collateral?
+
+If you represent a project and want to discuss adding a new collateral asset:
+[Speak to the team →](https://vetro.org/speak-to-the-team)

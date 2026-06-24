@@ -41,3 +41,8 @@ To convert VUSD back to USDC, USDT, or frxUSD:
 6. Once the cooldown ends, return and click **Complete your redemption** to receive your stablecoin
 
 > Whitelisted market makers receive instant single-transaction redemptions with no cooldown.
+
+## Want to Add Your Asset?
+
+If you represent a project and want to discuss integration with Vetro Protocol:
+[Speak to the team →](https://vetro.org/speak-to-the-team)

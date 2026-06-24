@@ -29,7 +29,7 @@ Your **staked balance**, **earned amount**, and **rewards** are displayed at the
 
 Withdrawing from sVUSD is a **two-step process** due to the mandatory cooldown period.
 
-### Step 1 — Request a Withdrawal
+### Step 1: Request a Withdrawal
 
 1. In the Earn tab, click **Withdraw** on the relevant pool
 2. Enter the amount of sVUSD you want to withdraw
@@ -39,7 +39,7 @@ Withdrawing from sVUSD is a **two-step process** due to the mandatory cooldown p
 
 > During cooldown your funds are **locked and earn zero yield**. The cooldown starts at 7 days and can be lowered by governance to a minimum of 1 day.
 
-### Step 2 — Claim After Cooldown
+### Step 2: Claim After Cooldown
 
 1. Once the countdown ends, return to the Earn tab
 2. Your exit ticket will show as **ready to claim**
