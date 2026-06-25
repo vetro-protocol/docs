@@ -15,7 +15,7 @@ The Earn tab lets you stake supported assets into yield-bearing positions. Curre
 
 ## How to Stake (Deposit)
 
-1. Open [beta.vetro.org](https://beta.vetro.org) and connect your wallet
+1. Open [app.vetro.org](https://app.vetro.org) and connect your wallet
 2. Click the **Earn** tab in the top navigation
 3. Find the pool you want (e.g. VUSD → sVUSD)
 4. Click **Deposit**

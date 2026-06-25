@@ -4,7 +4,7 @@ description: How to use the Vetro app to mint, earn, borrow, bridge, and monitor
 
 # Using the App
 
-The Vetro app at [beta.vetro.org](https://beta.vetro.org) is the main interface for interacting with protocol contracts. It organizes user actions into five primary workflows accessible from the top navigation bar: **Swap**, **Earn**, **Borrow**, **Bridge**, and **Analytics**.
+The Vetro app at [app.vetro.org](https://app.vetro.org) is the main interface for interacting with protocol contracts. It organizes user actions into five primary workflows accessible from the top navigation bar: **Swap**, **Earn**, **Borrow**, **Bridge**, and **Analytics**.
 
 ## Workflow Summary
 

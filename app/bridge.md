@@ -8,7 +8,7 @@ The Bridge tab lets you transfer supported Vetro assets across connected network
 
 ## How to Bridge
 
-1. Open [beta.vetro.org](https://beta.vetro.org) and connect your wallet
+1. Open [app.vetro.org](https://app.vetro.org) and connect your wallet
 2. Click the **Bridge** tab in the top navigation
 3. Select the asset to bridge (e.g. VUSD)
 4. Select the **destination network**

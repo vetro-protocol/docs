@@ -21,7 +21,7 @@ The Swap tab lets you swap supported input assets and receive Vetro protocol ass
 
 ## How to Swap
 
-1. Open [beta.vetro.org](https://beta.vetro.org) and connect your wallet
+1. Open [app.vetro.org](https://app.vetro.org) and connect your wallet
 2. Click the **Swap** tab in the top navigation
 3. Select the asset you want to swap in (e.g. USDC)
 4. Enter the amount you want to convert

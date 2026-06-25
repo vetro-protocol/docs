@@ -50,7 +50,7 @@ description: Which assets are live now vs. planned for future releases.
 | DAI, USDS, USDf, USD1 | VUSD minting inputs | Planned Phase 2 |
 | cbBTC, tBTC, wSOL, wBNB | CDP collateral | Planned Phase 2 CDP expansion |
 
-> Always refer to this page or the live app at [beta.vetro.org](https://beta.vetro.org) for current asset availability. The whitepaper describes the full roadmap — not only what is currently deployed.
+> Always refer to this page or the live app at [app.vetro.org](https://app.vetro.org) for current asset availability. The whitepaper describes the full roadmap — not only what is currently deployed.
 
 ## Want to Add Your Asset?
 

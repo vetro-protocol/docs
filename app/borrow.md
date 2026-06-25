@@ -24,7 +24,7 @@ The Borrow tab lets you open a Collateralized Debt Position (CDP) by depositing 
 
 ## How to Borrow
 
-1. Open [beta.vetro.org](https://beta.vetro.org) and connect your wallet
+1. Open [app.vetro.org](https://app.vetro.org) and connect your wallet
 2. Click the **Borrow** tab in the top navigation
 3. Select a borrow market (e.g. hemiBTC / VUSD or WETH / VUSD)
 4. Click **Supply Collateral** and enter the amount to deposit
