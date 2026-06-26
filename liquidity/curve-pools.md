@@ -62,3 +62,17 @@ Vetro maintains protocol-owned liquidity on Curve Finance across several pools f
 - Gauge: `0x3324a9B0a8e15A24Cb66A93E033329340E3afdEe`
 
 </details>
+
+## StakeDAO Incentivized Vaults
+
+StakeDAO offers boosted yield strategies on top of the Vetro Curve pools. Depositing via StakeDAO auto-compounds CRV and SDT rewards on top of base Curve APR.
+
+| Pool | StakeDAO Vault |
+|------|---------------|
+| VUSD / hemiBTC | [View strategy](https://www.stakedao.org/strategy?protocol=curve&vault=1-0xDE69194903dA2c2099Bb3029d9eac6df45e6AcA8) |
+| VUSD / crvUSD | [View strategy](https://www.stakedao.org/strategy?protocol=curve&vault=1-0x102A475c8d660fDe678D108DCc6D4A2227661AF2) |
+| frxUSD / VUSD | [View strategy](https://www.stakedao.org/strategy?protocol=curve&vault=1-0xE3F03e175bf43356eaB231c9Fd05494434651e36) |
+| VUSD / msUSD | [View strategy](https://www.stakedao.org/strategy?protocol=curve&vault=1-0x757360820728819953937B752f6B83AeB11090c7) |
+| crvUSD / sVUSD | [View strategy](https://www.stakedao.org/strategy?protocol=curve&vault=1-0x0931E5C4e9C49e7158E13e57ddfff83b5FEC6c2c) |
+
+> APRs on StakeDAO vaults are variable and typically higher than base Curve APR due to additional SDT and CRV boost. Check the strategy page for current rates before depositing.
