@@ -78,6 +78,8 @@ description: All deployed contract addresses. Source of truth is GitHub Issue #1
 |-------|---------|-------|--------|
 | USDC | `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` | `0xe3DA4B83C9dd4c4D185ecE42077462b3F35c454a` | `0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6` |
 | USDT | `0xdAC17F958D2ee523a2206206994597C13D831ec7` | `0x6d134cAAD0CA29Cd6ea145f6C0DC766076690547` | `0x3E7d1eAB13ad0104d2750B8863b489D65364e32D` |
+| frxUSD | `0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29` | `0xBd44B65cE2b7c736724E0AE7e008CE3Fb00697d8` | `0x9B4a96210bc8D9D55b1908B465D8B0de68B7fF83` |
+
 
 ### vetBTC Gateway
 | Token | Address | Vault | Oracle |
