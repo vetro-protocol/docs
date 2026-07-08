@@ -12,7 +12,7 @@ Step 2: Gateway mints VUSD at 1:1 minus a nominal minting fee
 Step 3: Treasury allocates collateral → Redemption Buffer (20% ~estimate) + Yield Strategies (80%)
 ```
 
-Accepted collateral at launch: USDC, USDT frxUSD. Planned additions: DAI, USDS, USDf, USD1.
+Accepted collateral at launch: USDC, USDT, frxUSD. Planned additions: DAI, USDS, USDf, USD1.
 
 Each whitelisted token is configured with:
 - A dedicated yield vault
