@@ -23,9 +23,9 @@ Each whitelisted token is configured with:
 
 Standard users follow a security-delay flow to prevent flash loan attacks and MEV manipulation:
 
-1. **Initiate** — submit a redemption request specifying the desired stablecoin
+1. **Initiate** — submit a redemption request for the amount of VUSD to redeem
 2. **Wait** — governance-configurable security delay (~6 blocks / 60–90 seconds)
-3. **Finalize** — submit a second transaction to claim funds
+3. **Finalize** — submit a second transaction specifying the desired stablecoin to claim funds
 
 Funds are pulled first from the Treasury's redemption buffer, then from deployed strategy assets if necessary. If combined liquidity cannot fulfill 100% of the request, the transaction fulfills the maximum available amount rather than reverting.
 
