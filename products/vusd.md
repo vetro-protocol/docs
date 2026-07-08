@@ -4,7 +4,7 @@ description: VUSD is the protocol's primary dollar-referenced settlement asset.
 
 # VUSD
 
-VUSD is a protocol-generated dollar-referenced settlement asset, targeting a 1:1 value relationship with the US dollar. It is over-collateralized by a diversified basket of USDC, USDT, and additional stablecoins approved by the protocol team and governance.
+VUSD is a protocol-generated dollar-referenced settlement asset, targeting a 1:1 value relationship with the US dollar. It is over-collateralized by a diversified basket of USDC, USDT, frxUSD and additional stablecoins approved by the protocol team and governance.
 
 ## Key Properties
 
@@ -16,7 +16,7 @@ VUSD is a protocol-generated dollar-referenced settlement asset, targeting a 1:1
 
 ## Minting VUSD
 
-Users deposit approved stablecoins (USDC, USDT) through the Gateway contract and receive VUSD at a 1:1 rate minus a nominal minting fee. There is no lockup on the base asset.
+Users deposit approved stablecoins (USDC, USDT, frxUSD) through the Gateway contract and receive VUSD at a 1:1 rate minus a nominal minting fee. There is no lockup on the base asset.
 
 ## Holding VUSD
 
