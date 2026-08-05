@@ -19,10 +19,10 @@ The community distribution targets existing aligned communities with the goal of
 
 ## Locking VETRO
 
-VETRO can be locked to receive **veVETRO** — a time-weighted governance position that grants:
+VETRO can be locked to receive **veVETRO** — a time-weighted governance position. Locking grants:
 
-- Voting power over protocol parameters
-- A share of protocol revenue
+- Voting power over strategy approvals, asset approvals, and protocol parameters
+- A portion of excess protocol yield
 - Participation in incentive allocation (gauge voting)
 
 Longer lock durations produce proportionally more veVETRO. Voting power decays toward expiry.
