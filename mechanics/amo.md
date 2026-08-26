@@ -1,10 +1,10 @@
 ---
-description: The AMO maintains the VUSD peg on decentralized exchanges.
+description: The AMO supports the VUSD peg on decentralized exchanges.
 ---
 
 # AMO (Automated Monetary Operations)
 
-The AMO controller maintains the VUSD peg on decentralized exchanges — initially Curve Finance — by executing algorithmic interventions when the market price deviates from parity.
+The AMO controller supports the VUSD peg on decentralized exchanges — initially Curve Finance — by executing algorithmic interventions when the market price deviates from parity.
 
 The AMO draws design influence from established peg stability mechanisms such as the FRAX AMO and msUSD, adapted to Vetro's over-collateralized reserve structure.
 

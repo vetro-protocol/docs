@@ -38,7 +38,7 @@ VUSD holders benefit from four layers of protection:
 
 1. A diversified strategy universe targeting 30 independent yield sources at maturity
 2. A liquid redemption buffer held outside yield deployment
-3. Priority-first redemption rights relative to sVUSD and VUSDx holders
+3. Priority-first redemption treatment relative to sVUSD and VUSDx holders
 4. Protocol-maintained self-insurance buffers
 
 ## Contract

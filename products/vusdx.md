@@ -4,7 +4,7 @@ description: VUSDx is the protocol's fixed-term, fixed-rate yield product.
 
 # VUSDx
 
-VUSDx provides predictable, fixed-rate yields through an epoch-based design. Users lock VUSD for the epoch duration and receive a guaranteed yield at maturity.
+VUSDx provides fixed-rate yields through an epoch-based design. Users lock VUSD for the epoch duration and receive a fixed target rate set at epoch open.
 
 ## Epoch Lifecycle
 
@@ -29,5 +29,5 @@ Mid-epoch deposits receive a reduced "gap rate" to prevent late-entry arbitrage.
 
 VUSDx provides the strongest stability primitive in the protocol:
 
-- **Deterministic Deployment Horizon**: Fixed-term locks give the Treasury absolute certainty over reserve asset commitments, enabling access to the longest-duration, highest-yielding institutional strategies
+- **Deterministic Deployment Horizon**: Fixed-term locks give the Treasury greater certainty over reserve asset commitments, enabling access to the longest-duration, highest-yielding institutional strategies
 - **Peg Integrity Floor**: Aggregating a significant portion of VUSD into fixed epochs creates an enduring "sticky TVL" floor that absorbs broader market shocks

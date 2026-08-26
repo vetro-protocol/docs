@@ -4,7 +4,7 @@ description: Move Vetro assets across chains using the Bridge tab.
 
 # Bridge
 
-The Bridge tab lets you transfer supported Vetro assets across connected networks using LayerZero's Omnichain Fungible Token (OFT) standard. VUSD and vetBTC are natively present on 100+ chains — bridging moves the same canonical token, not a wrapped version.
+The Bridge tab lets you transfer supported Vetro assets across connected networks using LayerZero's Omnichain Fungible Token (OFT) standard. VUSD, sVUSD, vetBTC, and svetBTC are natively present on 100+ chains — bridging moves the same canonical token, not a wrapped version.
 
 ## How to Bridge
 

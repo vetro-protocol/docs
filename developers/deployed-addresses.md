@@ -71,6 +71,28 @@ description: All deployed contract addresses. Source of truth is GitHub Issue #1
 | Optimism | `0x92273Ca3356379C2fe870FE3805cc5e7aB6d19c6` |
 | BNB | `0xC141B66eE4262Ba46Ea29578955C274fD4A96515` |
 
+## vetBTC OFT — Multichain
+
+| Network | Address |
+|---------|---------|
+| Ethereum (OFT Adapter) | [0x63413dA01EE7E1cec9d51EE27B3FAf81d786821c](https://etherscan.io/address/0x63413dA01EE7E1cec9d51EE27B3FAf81d786821c) |
+| Hemi | `0xfF16E26B7fFCf24c378D57DF536dC5eC104a7dE4` |
+| Arbitrum | `0x0b874b240eF6D9d9543dBDEB224CDDC4BA71FD0f` |
+| Base | `0x605EDFDA1EA02cE9d2d2702e31064867F67aF043` |
+| Optimism | `0x974af4a481895FB9A29829F87980088f6B93E1DF` |
+| BNB | `0xD46ac62F9C145B64146AFadB848476B209b6b420` |
+
+## svetBTC OFT — Multichain
+
+| Network | Address |
+|---------|---------|
+| Ethereum (OFT Adapter) | [0x010F0Bd6576949e6ac6eEa11Ed8C535388340e94](https://etherscan.io/address/0x010F0Bd6576949e6ac6eEa11Ed8C535388340e94) |
+| Hemi | `0xD8D63De3b64bd06d99F8F5AD8B78Ed2fE7525eC0` |
+| Arbitrum | `0x54181404A037757eb5271Ee4a02CA51844f25eaA` |
+| Base | `0x781aea37b81F3CF3Fb9a97E9568BdAF36d2DEF3d` |
+| Optimism | `0x62D2A7D31e8a61a7aCD472c98c657E053EB01b96` |
+| BNB | `0x37D8C0AFeeF48AA9D925475CF6c73E4D8c74d931` |
+
 ## Whitelisted Collateral Tokens
 
 ### VUSD Gateway
