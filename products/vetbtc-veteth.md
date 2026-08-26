@@ -12,9 +12,9 @@ Every vet asset vertical follows an identical three-token structure:
 
 | Token | Role |
 |-------|------|
-| **vetASSET** | Base settlement — a 1:1 synthetic representation of the underlying reference asset, designed for cross-chain settlement and institutional collateral use |
+| **vetASSET** | Base settlement — a synthetic representation designed to track the underlying reference asset, for cross-chain settlement and institutional collateral use |
 | **svetASSET** | Variable yield — the opt-in productivity layer; users stake vetASSET to receive svetASSET and capture real-time yield from asset-specific strategies |
-| **vetASSETx** | Fixed-term — a term-locked instrument with a guaranteed yield rate for a defined epoch, suitable for institutional treasury planning |
+| **vetASSETx** | Fixed-term — a term-locked instrument with a fixed target rate for a defined epoch, suitable for institutional treasury planning |
 
 ## vetBTC
 

@@ -8,7 +8,7 @@ description: How VUSD is minted, held, and redeemed.
 
 ```
 Step 1: Swap any approved stablecoin (USDC, USDT, frxUSD) → Gateway
-Step 2: Gateway mints VUSD at 1:1 minus a nominal minting fee
+Step 2: Gateway mints VUSD at a targeted 1:1 rate minus a nominal minting fee
 Step 3: Treasury allocates collateral → Redemption Buffer (20% ~estimate) + Yield Strategies (80%)
 ```
 

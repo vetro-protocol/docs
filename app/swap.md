@@ -4,7 +4,7 @@ description: Mint VUSD or vetBTC by swapping supported assets through the Swap t
 
 # Swap
 
-The Swap tab lets you swap supported input assets and receive Vetro protocol assets (VUSD or vetBTC) at a 1:1 rate minus a nominal minting fee.
+The Swap tab lets you swap supported input assets and receive Vetro protocol assets (VUSD or vetBTC) at a targeted 1:1 rate minus a nominal minting fee.
 
 ## Supported Swap Inputs (Live)
 

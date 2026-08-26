@@ -8,7 +8,7 @@ sVUSD is the protocol's variable yield product. Users stake VUSD into the sVUSD 
 
 ## How It Works
 
-The sVUSD vault's price-per-share (PPS) increases over time as yield is distributed. sVUSD holders redeem more VUSD than they deposited as PPS appreciates.
+The sVUSD vault's price-per-share (PPS) increases over time as yield is distributed. sVUSD holders may redeem more VUSD than they deposited if PPS appreciates.
 
 Yield is delivered through the **YieldDistributor** contract, which linearly drips rewards over a governance-configurable period. This drip mechanism prevents yield sniping — without it, an attacker could deposit immediately before a large yield distribution, capture a disproportionate share, and exit.
 
