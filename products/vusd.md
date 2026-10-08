@@ -27,7 +27,7 @@ VUSD held without staking continues to function as a settlement-grade dollar tok
 Standard users follow a multi-step redemption flow:
 
 1. Initiate a redemption request specifying the desired stablecoin
-2. Wait for the governance-configurable security delay (~6 blocks / 60–90 seconds)
+2. Wait for the governance-configurable security delay (~10 blocks / 120 seconds)
 3. Finalize with a second confirmation
 
 Whitelisted market makers bypass the security delay and execute instant single-transaction redemptions, limited to the current Treasury buffer balance.

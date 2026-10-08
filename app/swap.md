@@ -36,7 +36,7 @@ To convert VUSD back to USDC, USDT, or frxUSD:
 1. In the Swap tab, toggle to **Redeem** mode
 2. Enter the amount of VUSD to redeem
 3. Click **Start** — your VUSD goes into the **Redeem Queue**
-4. A ~6-block security cooldown begins (~60–90 seconds)
+4. A ~10-block security cooldown begins (120 seconds)
 5. Once the cooldown ends, return, select your preferred output stablecoin, and click **Complete your redemption** to receive it
 
 > Whitelisted market makers receive instant single-transaction redemptions with no cooldown.
